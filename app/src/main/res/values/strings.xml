@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="editTextHint">Add your note...</string>
+    <string name="buttonText">Submit</string>
+</resources>
